@@ -1,2 +1,2 @@
 # WinForms-TravelPlanner
-a beginner's made application by C#: TravelPlanner
+A beginner made application by WinForm
