@@ -20,7 +20,7 @@ namespace Utility.CSV
         /// <param name="gridView"></param>
         public static void SavePlanOverviewToCsv(string planName, DataGridView gridView)
         {
-            string completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\Overview\{planName}.csv";
+            string completePath = $@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\Overview\{planName}.csv";
 
             //先判斷CSV檔案路徑是否存在
 
@@ -45,7 +45,7 @@ namespace Utility.CSV
             }
             else//不存在，先建立路徑再輸出CSV
             {
-                Directory.CreateDirectory($@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\Overview");
+                Directory.CreateDirectory($@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\Overview");
                 CSVFile.ExportDgvToCsv(planName, gridView);                
             }
         }
@@ -62,7 +62,7 @@ namespace Utility.CSV
         /// <param name="label"></param>
         public static void SaveCSV(string place, Label label, PlaceDetails placeDetails)
         {
-            string completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\temp\{place}\{place}.csv";
+            string completePath = $@"C:\Users\ching\source\repos\_A20200701\temp\{place}\{place}.csv";
 
             //先判斷CSV檔案路徑是否存在
 
@@ -88,7 +88,7 @@ namespace Utility.CSV
             }
             else//不存在，先建立路徑再輸出CSV
             {
-                Directory.CreateDirectory($@"C:\Users\ching\source\repos\_A20200701 - 複製\temp\{place}");
+                Directory.CreateDirectory($@"C:\Users\ching\source\repos\_A20200701\temp\{place}");
                 CSVFile.CreateCSV(place, placeDetails);
                 label.Text = "Saved!";
             }
@@ -105,7 +105,7 @@ namespace Utility.CSV
         private static void CreateCSV(string place, PlaceDetails placeDetails)
         {
 
-            string completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\temp\{place}\{place}.csv";
+            string completePath = $@"C:\Users\ching\source\repos\_A20200701\temp\{place}\{place}.csv";
             string delimiter = ",";
             string header = "";
             string context = "";
@@ -149,7 +149,7 @@ namespace Utility.CSV
         {
             string delimiter = ",";
 
-            string completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\Overview\{planName}.csv";
+            string completePath = $@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\Overview\{planName}.csv";
 
             StreamWriter csvStreamWriter = new StreamWriter(completePath, false, System.Text.Encoding.UTF8);
 
@@ -193,7 +193,7 @@ namespace Utility.CSV
             string header = "";
             string context = "";
 
-            string completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\{labelSender}\{labelSender}.csv";
+            string completePath = $@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\{labelSender}\{labelSender}.csv";
             using (var file = new StreamWriter(completePath, false, System.Text.Encoding.UTF8))
             {
               
@@ -245,7 +245,7 @@ namespace Utility.CSV
            
             string context = "";
 
-            string completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\{labelSender}\{labelSender}.csv";
+            string completePath = $@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\{labelSender}\{labelSender}.csv";
             using (var file = new StreamWriter(completePath, true, System.Text.Encoding.UTF8))
             {
 
@@ -287,7 +287,7 @@ namespace Utility.CSV
 
         
 
-                completePath = $@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\{labelSender}\{labelSender}.csv";
+                completePath = $@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\{labelSender}\{labelSender}.csv";
                 //先判斷CSV檔案路徑是否存在
 
                 bool file = File.Exists(completePath);
@@ -312,7 +312,7 @@ namespace Utility.CSV
                 }
                 else//不存在，先建立路徑再輸出CSV
                 {
-                    Directory.CreateDirectory($@"C:\Users\ching\source\repos\_A20200701 - 複製\TravelPlanner\{planName}\{labelSender}");
+                    Directory.CreateDirectory($@"C:\Users\ching\source\repos\_A20200701\TravelPlanner\{planName}\{labelSender}");
                     CSVFile.CSVGenerator(placeAllList, planName, labelSender, placeDetails);                  
 
                 }
