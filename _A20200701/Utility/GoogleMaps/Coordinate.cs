@@ -17,7 +17,7 @@ namespace Utility.GoogleMaps
         public Coordinate(string address)
         {
             //always need to use YOUR_API_KEY for requests.  Do this in App_Start.
-            string authKey = "AIzaSyDi9t-vPKn-xXNP9swFQk3wdeE5mU4IDj4";
+            string authKey = "AIzaSyDi9t-vPKn-xXNP9swFQk3wd**********";
             GoogleSigned.AssignAllServices(new GoogleSigned(authKey));
 
             this.Address = address;         
