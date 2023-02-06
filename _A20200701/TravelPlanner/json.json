@@ -1,0 +1,1074 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCJAEAANab4q1ybdXFvwuW3-9C9W_1dY94gnWZrt3buUDxAZFWB6kNSXhSG-dlf2gypr5-KJWXfUwJinHb4MmCG_EBvjUCf7SdNPou-R-7C-b1sEkAqftL0yjn_-5hEg7uMJTxlWGGJ7ymv_be6T_DrnK7H_7AsThKQyn5fIbcXLMW5dtT6ZwKuBwINBJWm1raaC1RM_rUHVSBjU2KomuH9-sp17_2b8_ffI19WBaU--V8vm_8IXXidrWi0nQ8Z4iOZAfdutsKWdTOUx7hJ7oja5LLnpCU69o-cx0FfiD5qxDEPW7aj0tZ6x4-av7HoSiMwp3tQw8r4HKIbislIOg2A1qpV_b7Ux-nyR_QckrDkRvXce1cp5-zDJaKNyvonysah_g-DEowbaEDU_hZgLrEC5Womq0SEO0Q6cdgFLFVPgozFRTjw84aFHMwj3eZIrXxRKxj2YnUj5fMqCX8",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8302261,
+               "lng" : 2.8059951
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.83165542989271,
+                  "lng" : 2.807397029892722
+               },
+               "southwest" : {
+                  "lat" : 48.82895577010727,
+                  "lng" : 2.804697370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a189e04556b6c06e9e3e9f8af86401303dfda085",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ0_xvqWUD5kcRzKYnQQZJeZo",
+         "plus_code" : {
+            "compound_code" : "RRJ4+39 Bailly-Romainvilliers, 法國",
+            "global_code" : "8FW4RRJ4+39"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ0_xvqWUD5kcRzKYnQQZJeZo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "village nature tourisme, 1 Rue du Pré des Merlans, Bailly-Romainvilliers"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8300911,
+               "lng" : 2.8132131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.83144092989272,
+                  "lng" : 2.814562929892722
+               },
+               "southwest" : {
+                  "lat" : 48.82874127010728,
+                  "lng" : 2.811863270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "29a03c8a9083f2e2e729a1f604b80977105e4924",
+         "name" : "Supermarché Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103360058090083913892\"\u003eMDY 360 CONSULTING Roubaix\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb19S5x93rQyRkcSp8Fxb1ZOwP6sCo3oL1vWuGsFjG31aCCab8A0qdLw4J5Ti5ZTX_ba6o0j8jMvc_bJ8JJxUitoVFNdOmjdKNAE_32Hi2N9l7a8Or29WXz_u-l8CFnWdEhBCut_CbresWoPD4g6LGDOEGhQwKISP0IlM5fpcuUUm6qi5_0pSTA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJByK6KKEC5kcRoae_6EOgmus",
+         "plus_code" : {
+            "compound_code" : "RRJ7+27 新城勒孔特 法國",
+            "global_code" : "8FW4RRJ7+27"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJByK6KKEC5kcRoae_6EOgmus",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 548,
+         "vicinity" : "Villeneuve-le-Comte"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8709218,
+               "lng" : 2.7044241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.87229242989272,
+                  "lng" : 2.705902679892722
+               },
+               "southwest" : {
+                  "lat" : 48.86959277010727,
+                  "lng" : 2.703203020107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7e015ba9ca320e59f7c6a9628e8d8af510139ad1",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 504,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110661364790052140803\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKapz0yH2V3fSel2VuoH2bASZ2Cg1zyHsTXgC9K5y_BEklRXC_WLC2mK4CeMz0Y7oKBH6-2ZLF-TdLXigWeNXt1SuGsVmSXyPxIHXnokrD8PnuI9iJRjHkFwn6tF2leXiEhCd4QA2e77QRPCRH4lL8UFnGhSe8Uetl5F3Ukq0ZJMkYalVzKUQUQ",
+               "width" : 368
+            }
+         ],
+         "place_id" : "ChIJ3fFg_hQb5kcRja7yaoSnXeU",
+         "plus_code" : {
+            "compound_code" : "VPC3+9Q 拉尼敘爾馬恩 法國",
+            "global_code" : "8FW4VPC3+9Q"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ3fFg_hQb5kcRja7yaoSnXeU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 57,
+         "vicinity" : "22 Avenue de la Victoire, Lagny-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8826398,
+               "lng" : 2.7047415
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.88383107989272,
+                  "lng" : 2.706103129892723
+               },
+               "southwest" : {
+                  "lat" : 48.88113142010728,
+                  "lng" : 2.703403470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0dfba62cec8a682df97c9ea8e4b3cf19f710a779",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102635423356293439324\"\u003eMario MAURICETTE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfQjgsm4ZtoH5BECWV_sVco8i5i0MFS5Nmk8LQjxFlyIlj394adN4b4L7kw67SIWl9E3pxzynM2P9C4xlzltFZWZQ2ycqsuX8vTg-phoErOYKjLarHM3EgvfQdr7tUepMEhA6loDLjCUobnXEpTpgtTYXGhRXNa_fGhW6-KjgKX7cVAGphRMTNw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ-QAvZAwb5kcRqlvliQnw9Lc",
+         "plus_code" : {
+            "compound_code" : "VPM3+3V 馬恩河畔托里尼 法國",
+            "global_code" : "8FW4VPM3+3V"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJ-QAvZAwb5kcRqlvliQnw9Lc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 115,
+         "vicinity" : "clos godin, 3 Rue Raymond Poincaré, Thorigny-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7629256,
+               "lng" : 2.6740783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.76462242989273,
+                  "lng" : 2.675584079892723
+               },
+               "southwest" : {
+                  "lat" : 48.76192277010728,
+                  "lng" : 2.672884420107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fa9068860fa5106f8a89ad04a0d519dff1823f1b",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113769358434257499821\"\u003eMichele Legrand\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5078vcTd6pxOS9m6f2ZjDrqW2AnwJu5D6m5FTJfNEudnVMpZnBzoVggFy0_D9vlW2WQk4AQuwxZ-Wax5TaP0Oql88gVAhtY4u8PxGhrZqQsL_Aj9cyaYc6RTJ4uuB_OjEhAA6DqsqQ7QPl8x2v2LuuO1GhSN61xJ655DDjkqZ-0JciuBIQcAzg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJU5UoOYcG5kcRgL35K50oqA0",
+         "plus_code" : {
+            "compound_code" : "QM7F+5J 奧祖瓦爾－拉費里耶爾 法國",
+            "global_code" : "8FW4QM7F+5J"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJU5UoOYcG5kcRgL35K50oqA0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 186,
+         "vicinity" : "Avenue Auguste Hudier, Ozoir-la-Ferrière"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8060279,
+               "lng" : 2.6170519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.80742977989271,
+                  "lng" : 2.618441729892722
+               },
+               "southwest" : {
+                  "lat" : 48.80473012010727,
+                  "lng" : 2.615742070107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "00bb3f1fdbec50614e3551054838a53330a82259",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110887045826874604733\"\u003ePierre Cohade\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAObD12atcVatwrHmP2wR4hD002RhPpahYBYhlSrvwJTnhPISn1_uuTauar_JOciDV38gOfgKha26puZ_-svGrpxbaERm-MlhtfsOAqqgLSXuyBC_YRYLuy8WW2ek9QWl7EhDkTN2qqFAT-lMxOsFIN3lkGhQVq9qcyfMLZfikpTM6yphT-NlYFQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJF6O7PhAP5kcRDtCUqymbEZo",
+         "plus_code" : {
+            "compound_code" : "RJ48+CR 邦多康寶 法國",
+            "global_code" : "8FW4RJ48+CR"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJF6O7PhAP5kcRDtCUqymbEZo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 102,
+         "vicinity" : "2 Place Auribault, Pontault-Combault"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.9555,
+               "lng" : 2.87969
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95685982989273,
+                  "lng" : 2.880986829892723
+               },
+               "southwest" : {
+                  "lat" : 48.95416017010729,
+                  "lng" : 2.878287170107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6b50265b868ee0846613fc057987092270a35e93",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112209048832429939131\"\u003eKhalil SATOURI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARY_zz6q_AVsVl76dbtoAd3INkiqaV5Cdis3yaB_zamyo4aa2xTOUj-g-lf0f4cKMGfwKe5laSJTbSMyFMOQ1ezBo3AvTj-kdPXpWs1egJ2F8XwjewzkxYy2Fzy6B_NCsEhDdosxeiG1lM36xl_4MJYmmGhQsAgYcWNEOPdIN5UfQjCuyR6Hzsg",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJUWQZUQOh6EcRD9cHqEbJtmk",
+         "plus_code" : {
+            "compound_code" : "XV4H+6V 莫城 法國",
+            "global_code" : "8FW4XV4H+6V"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJUWQZUQOh6EcRD9cHqEbJtmk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 64,
+         "vicinity" : "73 Rue du Commandant Berge, Meaux"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.84676349999999,
+               "lng" : 2.5850419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.84811332989273,
+                  "lng" : 2.586391729892722
+               },
+               "southwest" : {
+                  "lat" : 48.84541367010728,
+                  "lng" : 2.583692070107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6641d5da0a927e7547a7f27c9dc509d95c4acfff",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115164895144360590854\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACJpC40RUyMH2Kg1I9-7GIWYWNZO_eWcZvc0xNcGn_fO9ndewpTIj-DMGyQ43g4NT7RaPfj089225BNlg9IElRpkaMu0eIDIJbX__6Qs5n-pkIwUzewk8SUpqvXjpm-y_EhCGgbCXfO0qLe_fe6S_5-1VGhRaUHl_eDSkkibIm0DA7auHZjFfmA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJkQKlTikO5kcRn3purm1hILg",
+         "plus_code" : {
+            "compound_code" : "RHWP+P2 田野馬恩河 法國",
+            "global_code" : "8FW4RHWP+P2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJkQKlTikO5kcRn3purm1hILg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 77,
+         "vicinity" : "18 Place du Bois de Grâce, Champs-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8097055,
+               "lng" : 2.5727774
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.81109062989272,
+                  "lng" : 2.574195229892722
+               },
+               "southwest" : {
+                  "lat" : 48.80839097010728,
+                  "lng" : 2.571495570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b53f685aff1dc731f2622e8bf142bf2ffdee0fb2",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111184104134709228181\"\u003eCatherine BELIER\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWS2vAKS05ZZpCRuqSvp-S2X6cilxbD6uPqFraU0S8f57fWoHIrrC_cYtp7vNOYNEuJTVR25r4IBa9cYqAdPZj0RtjGLvkwG0ugVJP0aGHCQmamQcnC4Jhiso6QZgukJ6EhD3TlX4Kz-np8dxeGB_4ytrGhQFtB_YO0zjCLkRXCEpc1boWrh0zg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJX1oYa_YO5kcR6NP150cKUEc",
+         "plus_code" : {
+            "compound_code" : "RH5F+V4 萊普萊西特勒維斯法國",
+            "global_code" : "8FW4RH5F+V4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJX1oYa_YO5kcR6NP150cKUEc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 94,
+         "vicinity" : "30-32 Avenue Ardouin, Le Plessis-Trévise"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.80346369999999,
+               "lng" : 2.5524986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.80496847989272,
+                  "lng" : 2.553628679892722
+               },
+               "southwest" : {
+                  "lat" : 48.80226882010727,
+                  "lng" : 2.550929020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ceef1228bd87d7686cc36a3f01848fcd4ceb3d6b",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113214382205963492671\"\u003eSeb Vill\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKwMD3jYDrnRBg6PGR7YZl-9imCnFlBSCg6ZRja39Al-AuVCQ8VC6aySvsFRJdlSjTdIw1_CKXN8azZW8O6H0abSww7FxFcRfl2IhO3fYRJUn0d3cAakLh_R1lsSbSJX4EhANexN5aDGC0Dsuyw1Juk7qGhSMRftfY6NJhAtyd-mXwmnVIMbbuw",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJN-dMIYUO5kcR2-j_TyMRVLg",
+         "plus_code" : {
+            "compound_code" : "RH32+9X 馬恩河畔謝內維埃 法國",
+            "global_code" : "8FW4RH32+9X"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJN-dMIYUO5kcR2-j_TyMRVLg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 114,
+         "vicinity" : "Route du Plessis, Chennevières-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8270577,
+               "lng" : 2.5417761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.82854497989273,
+                  "lng" : 2.543123029892723
+               },
+               "southwest" : {
+                  "lat" : 48.82584532010728,
+                  "lng" : 2.540423370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a1371abd88154792b43a47b2e32339970dbe188f",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 585,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113227592985058965380\"\u003eJohanna Collins\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAiZxlTR7DHC1Le7OWBMayyvVjanc-EjFPztr4OTIdVFitnY7wFF35fD1xGHzojN4SqTAWmokBm1B3g0T0KLACDNnqjeaMDyQduaM4UCgfJZg_7REg33SxmrU7_r0E3gNWEhA3KgwGyXSRvuBLGWqk_qOPGhSgtcykjp_Mn9jblmEsMb0tI9Pz1w",
+               "width" : 930
+            }
+         ],
+         "place_id" : "ChIJq3gGKt8N5kcRc9AYr0uQj3U",
+         "plus_code" : {
+            "compound_code" : "RGGR+RP 馬恩河畔維利耶爾 法國",
+            "global_code" : "8FW4RGGR+RP"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJq3gGKt8N5kcRc9AYr0uQj3U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 104,
+         "vicinity" : "42 Rue du Général de Gaulle, Villiers-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8797359,
+               "lng" : 2.5488646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.88135972989272,
+                  "lng" : 2.550337629892722
+               },
+               "southwest" : {
+                  "lat" : 48.87866007010727,
+                  "lng" : 2.547637970107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9d3bbdcc76937140b772638b2738ddfa4857c3a9",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112406226896141011110\"\u003eCristian Girlea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXQUTLw2qbkfixOPi8SwWPTIqTErGvh2nxOW9BfvDpRlKw0uEzYKul4IHjeYoE9AefV7evizFm4W2qRFUGGfaqTwzOrSo0xJ9zpwFumfPr1t57FA1qrQaQKYfioC0iIwzEhDCLkU2XKQnE_YjNk7vTm5-GhRkStkmtz0AmGdWikVyubOwW7_FSA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ7_jBXgQT5kcRzEZenKOZbIc",
+         "plus_code" : {
+            "compound_code" : "VGHX+VG 加尼 法國",
+            "global_code" : "8FW4VGHX+VG"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ7_jBXgQT5kcRzEZenKOZbIc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 49,
+         "vicinity" : "2 Rue Jean Bouin, Gagny"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8125004,
+               "lng" : 2.5371203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.81387827989272,
+                  "lng" : 2.538261479892722
+               },
+               "southwest" : {
+                  "lat" : 48.81117862010728,
+                  "lng" : 2.535561820107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "98757b3810b31742629a8308de0ed44fd9f631b6",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104172456403528207374\"\u003eMarina Mendes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABVnKbilpP990Em6nKNrNQ-kTUWZheY2IZNKwvkcLAXTrcEGTcDNxS0aFpj7ujJGABXC-d6fz92vnp1_Hs_QllDStNbVlj_KX39owQOGOMMXQJlmNRjfLrm304VvQmbxIEhAWATdKFeTGtoAbsgcYWw1mGhSZjPLPkSulU4BLn5vNN5ScZzwcdQ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJlUqTl3gN5kcRy-iJVtQEQ7U",
+         "plus_code" : {
+            "compound_code" : "RG7P+2R 馬恩河畔尚皮尼 法國",
+            "global_code" : "8FW4RG7P+2R"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJlUqTl3gN5kcRy-iJVtQEQ7U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 88,
+         "vicinity" : "625 Avenue Maurice Thorez, Champigny-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7575722,
+               "lng" : 2.5499415
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.75911967989272,
+                  "lng" : 2.551430129892723
+               },
+               "southwest" : {
+                  "lat" : 48.75642002010728,
+                  "lng" : 2.548730470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "996c09574e70583781cb13452dc01cf57508697a",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104940347283412832175\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMLVKI8tmlb3DT0M5xxcfdpvNuvv0NF9hhDxLdbjrDT9xKRoWQzCxtBC0APav75gMMH1uTK9l-egr7Mwql8hdXejcnjJmodezLBHZiv_q0jG1-kyLCPVreB2yfr8S7HnkEhA_hWHyWuwXieLWmyCUzPrvGhRl0_EBpBTpl2a-bblRAXfblzuS3w",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJNWY5tEQJ5kcRRDvMQbFlbXw",
+         "plus_code" : {
+            "compound_code" : "QG5X+2X 布里地區敘西 法國",
+            "global_code" : "8FW4QG5X+2X"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJNWY5tEQJ5kcRRDvMQbFlbXw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 51,
+         "vicinity" : "2 Rue du Faisan Doré, Sucy-en-Brie"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8149115,
+               "lng" : 3.0850246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.81626212989273,
+                  "lng" : 3.086424979892723
+               },
+               "southwest" : {
+                  "lat" : 48.81356247010729,
+                  "lng" : 3.083725320107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5ef676d9a29f2e79a45c57fa9271ca2ec631f4e6",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 915,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115843962345573536411\"\u003eJewell Clark\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADFyY_FjmhmPBCFMRDjLb7l4sAcD7hGakqeVhgQvKYYUD9swarGBTNdIVeAzBtyzH0YzU6FADviASgsRDT5Aym1qQ8-Bep8TE774FlCiKnqNCHqVpd43R71bDFYs95dYsEhBTakosPfXhaXMiIwAl7xm7GhRru5tOGokMTezFdM-N-1A1BQV45w",
+               "width" : 1220
+            }
+         ],
+         "place_id" : "ChIJgd1goMuw6EcRuDhbQs8IsnY",
+         "plus_code" : {
+            "compound_code" : "R37P+X2 庫洛米耶爾 法國",
+            "global_code" : "8FW5R37P+X2"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJgd1goMuw6EcRuDhbQs8IsnY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 134,
+         "vicinity" : "15 Cours Gambetta, Coulommiers"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7871637,
+               "lng" : 2.5302095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.78832112989272,
+                  "lng" : 2.531532329892722
+               },
+               "southwest" : {
+                  "lat" : 48.78562147010728,
+                  "lng" : 2.528832670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d65a2c23c5db8dcf0c4d3fe9be2edd949838d368",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109766952276898270019\"\u003eNicolas Nobre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUMC9iDOoO76TIe6imkuW9kmprdpVejHq3nY7LUIpMu489WLvXiKS8yrjSpyX0_CXwsSaJVulYmIAuzah4J5d_u5kVv6xTfP90GjZohryeFt0sbqRjiqUuSByuKeRHTkkEhAmYMMGT_7N6mkfAm19ONgVGhSjL9qXYz-jUDlRtSdUaAHXqYnMWg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJRxz8bBgM5kcRvn7uVw2P-Vw",
+         "plus_code" : {
+            "compound_code" : "QGPJ+V3 馬恩河畔謝內維埃 法國",
+            "global_code" : "8FW4QGPJ+V3"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJRxz8bBgM5kcRvn7uVw2P-Vw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 296,
+         "vicinity" : "10 Rue d'Amboile, Chennevières-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8632801,
+               "lng" : 2.5266534
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.86462202989272,
+                  "lng" : 2.527879229892723
+               },
+               "southwest" : {
+                  "lat" : 48.86192237010728,
+                  "lng" : 2.525179570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "85fa0805c4d3d840a5693a811cc901a98bb982da",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3724,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112867663670723250802\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARvlY1ltooRxRyVD_g0u3FuicEO2Bx2ZR9HAYWbDqUl4VFQqls4Hz-ak7mmJU9wQNwr5uZlY7vA5jFLBP1AGE3_KdUCcIzHOZkYVTzIc8REJl24MNwjMuTHEMbm8cPV5WEhA5jysghhUgfOP90hrLVqLJGhQqhrJippMZ3xZTWdCGhwxWGYrVCA",
+               "width" : 2096
+            }
+         ],
+         "place_id" : "ChIJ53qSvRIS5kcRd6-a9axGV5s",
+         "plus_code" : {
+            "compound_code" : "VG7G+8M 馬恩河畔訥伊 法國",
+            "global_code" : "8FW4VG7G+8M"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ53qSvRIS5kcRd6-a9axGV5s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 73,
+         "vicinity" : "70 Rue du 11 Novembre, Neuilly-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.83841,
+               "lng" : 2.52157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.83975872989272,
+                  "lng" : 2.522922929892722
+               },
+               "southwest" : {
+                  "lat" : 48.83705907010728,
+                  "lng" : 2.520223270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "cd735a55fbb405094cb09fd420ed652bcf31faee",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111902874706018692319\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJxEI20B9z2ShEvAL0IuR-DWfUZ42Gcip0WBEynmKDpc9YSRQyV5KWMhfz58xbITgbK6bEJZEjHU-eEGwQW3y8IkSTKqU-mTfUrRJ-orEWhlgeYYvAMH_6AdlzLxTB3xTEhB_VU-OjAvWSmk491gmlLq4GhTH0Nwi6NXcpFEedIaspZCFmSlzNQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJBwkhaZMN5kcRUcNqbq0EPmw",
+         "plus_code" : {
+            "compound_code" : "RGQC+9J 馬恩河畔布里 法國",
+            "global_code" : "8FW4RGQC+9J"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJBwkhaZMN5kcRUcNqbq0EPmw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 250,
+         "vicinity" : "70 Grande Rue Charles de Gaulle, Bry-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.83432999999999,
+               "lng" : 2.51282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.83570902989272,
+                  "lng" : 2.514174629892722
+               },
+               "southwest" : {
+                  "lat" : 48.83300937010728,
+                  "lng" : 2.511474970107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0a7a77d02e7df93cca6f7177776f23ae2cfba38f",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113652054188921334923\"\u003eRafael LLata\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAknrQadL4I1YeoLU7ogGY_CWS46S7-nnRdYqUEDmH71CBwx2Ax7SRN9Rl3o2j1xw4Fmj_Fof_sryarzwbUuVMYPlqw3r4JkEOkVIl3LX02TZDFqaQNodxUb8EVU_iIGGwEhALaczsORTrLIrFh0feKSmhGhSwT4UHGLbDhtIKOReEk7RU-O9TGw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlY9lBPUN5kcRvI7nXQDQBmQ",
+         "plus_code" : {
+            "compound_code" : "RGM7+P4 馬恩河畔萊佩爾勒 法國",
+            "global_code" : "8FW4RGM7+P4"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJlY9lBPUN5kcRvI7nXQDQBmQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 26,
+         "vicinity" : "210 Avenue Pierre Brossolette, Le Perreux-sur-Marne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8140317,
+               "lng" : 2.5106724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.81541057989272,
+                  "lng" : 2.511898779892722
+               },
+               "southwest" : {
+                  "lat" : 48.81271092010728,
+                  "lng" : 2.509199120107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "86f34a6122156ce124c0123a5e3c11f5c9f75dc6",
+         "name" : "Franprix",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101688834417853738461\"\u003eFranprix\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxF7f4J6GTHxar1qilffdjKYWZf1sZWu2zWErbwZLUJMtn9b-bH0Q2yxNFE5YZMkWaPsuU9RcenJePssVY7NnwZNpFLRqY0Dl8Ml2Zp_SRJqSj8ehBIy7KQkOCZiILHmUEhB-I67YrGuc9YgP6dI1w-9EGhQxpKe3J019Lb3Q2B9uZrWmQxVyXg",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ66HDz7IN5kcRxRnezvGjUrE",
+         "plus_code" : {
+            "compound_code" : "RG76+J7 馬恩河畔尚皮尼 法國",
+            "global_code" : "8FW4RG76+J7"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ66HDz7IN5kcRxRnezvGjUrE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 48,
+         "vicinity" : "Rue Dupertuis, Rue Albert Thomas, Champigny-sur-Marne"
+      }
+   ],
+   "status" : "OK"
+}
